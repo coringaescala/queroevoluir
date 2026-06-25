@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Disallow: 
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Disallow: 
+Crawl-delay: 1
+
+User-agent: Mediapartners-Google
+Allow: /
+Crawl-delay: 1
+
+User-agent: Adsbot-Google
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+Sitemap: https://lp.queroevoluir.com.br/sitemap.xml
